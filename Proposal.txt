@@ -1,0 +1,38 @@
+Prompt #1:  Explain the data you have organized in the "input.dat" file. Your explanation should be detailed enough for others to expand your data file with additional data using the same structure.
+
+Top  songs for the past 10 weeks on billboard, the format is duration on billboard,song name,arist,ranking this week and ranking last week and then moving backwards for example if a song stayed 7 weeks on billboard it shows current week ranking ,then last week and then week before and keeps going on but i limited it to 10 weeks
+
+
+
+Prompt #2:  What would the output look like if a user wants to browser your database without any filter or sorting criteria?
+I will diplay song name,arist,duration on billboard,ranking last week and ranking this week
+
+
+Prompt #3: Give two example filter criteria that would be interesting to apply. These are not commitments you are making for the final project.
+ask the user for the artist name and then i will display song artist and the ranking 
+show the user the lowest ranking each song has reached
+
+
+Prompt #4: Give two example sorting criteria that would be interesting to apply. These are not commitments you are making for the final project.
+from best to worst ranking
+alphapatical sorting for the arists 
+
+
+
+Prompt #5: Describe two analyses that would focus on data within one group. These are not commitments you are making for the final project.
+How long did a song stay on charts 
+What is the highest did a song reach 
+which rank was the highest for a specific song 
+
+
+Prompt #5: Describe two analyses that would require data from multiple groups. These are not commitments you are making for the final project.
+Which song stayed the longest duration  through the 5 weeks
+WHich song stayed the shortest duration through the 5 weeks  
+
+
+
+
+
+Prompt#6 : How and why is this project personal or interesting to you?
+
+Music is the best thing and what i am most intrested in.I listen to top songs week by week and i used to play multiple instrunments in school.I also memorize songs so fast , i can listen to it once and would know most of it before listening twice 
